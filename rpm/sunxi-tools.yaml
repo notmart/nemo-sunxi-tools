@@ -1,0 +1,18 @@
+Name: sunxi-tools
+Summary: Allwinner A10 Hacking Tools
+Description: |
+    Tools to help hacking Allwinner A10 (aka sun4i) based devices and possibly
+    it's successors, that's why the 'x' in the package name.
+Version: 1.1+git20131126.172938
+Release: 1
+Group: Development/Tools
+URL: http://linux-sunxi.org
+License: GPLv2
+Sources:
+    - "%{name}-%{version}.tar.bz2"
+PkgConfigBR:
+    - libusb-1.0
+Configure: none
+Builder: none
+Files:
+    - "%{_bindir}/*"

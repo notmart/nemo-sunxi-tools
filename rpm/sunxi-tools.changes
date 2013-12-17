@@ -1,0 +1,18 @@
+* Tue Nov 26 2013 Marco Martin <mart@kde.org> - 1.1+git20131126.172938
+- Update automatically tarball from repository.
+- Repository URL: https://github.com/linux-sunxi/sunxi-tools.git
+- Branch:  master
+- Commit ID: ed6f7969d80b91048b0ed95ccb61cc98f46fead7
+
+* Thu May 02 2013 Maurice de la Ferté <kadava@gmx.de> - 1.1+git20130502.103620
+- Update automatically tarball from repository.
+- Repository URL: git://github.com/linux-sunxi/sunxi-tools.git
+- Branch:  master
+- Commit ID: 031155fe8815afafa1283a709f7c04046f6b6862
+
+* Wed Mar 13 2013 Maurice de la Ferté <kadava@gmx.de> - 1.1+git20130313.094858
+- Update automatically tarball from repository.
+- Repository URL: git://github.com/linux-sunxi/sunxi-tools.git
+- Branch:  master
+- Commit ID: 033706af8ac06fbd2d3a36cf9562213d6a717624
+
