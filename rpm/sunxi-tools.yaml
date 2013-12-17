@@ -3,7 +3,7 @@ Summary: Allwinner A10 Hacking Tools
 Description: |
     Tools to help hacking Allwinner A10 (aka sun4i) based devices and possibly
     it's successors, that's why the 'x' in the package name.
-Version: 1.1+git20131126.172938
+Version: 1.1
 Release: 1
 Group: Development/Tools
 URL: http://linux-sunxi.org

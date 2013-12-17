@@ -9,7 +9,7 @@ Name:       sunxi-tools
 # << macros
 
 Summary:    Allwinner A10 Hacking Tools
-Version:    1.1+git20131126.172938
+Version:    1.1
 Release:    1
 Group:      Development/Tools
 License:    GPLv2
