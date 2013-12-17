@@ -25,7 +25,7 @@ it's successors, that's why the 'x' in the package name.
 
 
 %prep
-%setup -q -n %{name}-%{version}
+%setup -q -n %{name}-%{version}/sunxi-tools
 
 # >> setup
 # << setup
